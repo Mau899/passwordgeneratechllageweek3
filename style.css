@@ -135,3 +135,9 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+.d-none{
+  visibility: hidden;
+}
+.show{
+  visibility: visible;
+}
